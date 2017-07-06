@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_57fc613207ef2d40b16314a02e39ab956ffc65aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.10.3/36366e460af2c0f224bb8f70b64e3302f638b138/parse-android-1.10.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="36366e460af2c0f224bb8f70b64e3302f638b138">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.10.3_71e001d1fa80e7f1cd7915cc9065fc323511515c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-core-4.48_19552f071ceb299271a6493054723d34b8124289/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_1ebe77bf788ca3784246acfa3cdba1c07446a91d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_01bfa76f7f119f27ab2d40f76ca46b5cd08815ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-android-4.48_51ad6d47e255c32314fa3c93fc47b4f77750201a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_165229d21e35c29664846527bb9b1978776655e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Backup/Development/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_e4cb3ce91b53467ebe67e8bd29725638fc929720/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.2.1_8b5fa01612d1c5003d0f6b4d2d17377e330ca24c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="152e1df65212df23a4b5dba0e819e63bca93192c">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.4.0_3bcbb9979ad98e3c630916473f93deb9fc7766eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c81dae96c6741d840571852d1d83dc873c14499">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b9e801024dd8097126e9f62578273455732aa360/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_b5e8d1df96d63a6efb7342979f056ef5d80ebada/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.parse/parsetwitterutils-android/1.10.3/8d945a26edb86e14260343e2a0dbe2ddd8937b73/parsetwitterutils-android-1.10.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d945a26edb86e14260343e2a0dbe2ddd8937b73">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/parsetwitterutils-android-1.10.3_d7d737e56abaa1f68385b6dd234d2c34313c6578/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/exploded-aar/com.parse/parsefacebookutils-v4-android/1.10.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771e1739a38be7573c55458d16ca2d2f9f546cf7">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parse-parsefacebookutils-v4-android-1.10.3_8f4d74ccaf05d69ea4eff47f25db0e93ddd11dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_8ac5e78b9874a80fa954103eb6293dd345caa2ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobilestar/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.5.7/d7e93fdba02b9f296143b7c853c983facb827356/itextpdf-5.5.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7e93fdba02b9f296143b7c853c983facb827356">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/itextpdf-5.5.7_2e7d27dfabd96c4d59e9dae008a8e594cfcf8a6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_48fb94f0ba829d91443d666dbbfd1b8a1ebdb6c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_19b0251982e5b61a54f4db3bc89bd3ef3242f817/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8b6435f9b77047266b72b1b81bcf1ab186f9b51d">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3e11697e8248ec388516690928ab971a462483f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/exploded-aar/com.parse/parseui-widget-android/0.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="76d7e619a84e1c57ad7b153ba84b1213f8ff9ef1">
+        <dex dex="/Volumes/Work/20161203_marc_faxapp/FaxApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.parse-parseui-widget-android-0.0.1_24b4d55e8ff5dd7af82c5ab699be4370829b21be/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,83 @@
+<resources>
+    <string name="action_settings">הגדרות</string>
+    <string name="title_fax_details">פרטים</string>
+    <string name="phone_number">מספר פקס</string>
+    <string name="send_button">שלח</string>
+    <string name="save_button">שמור</string>
+    <string name="error_saving_fax">שגיאה בשמירה</string>
+    <string name="save_message">הפקס נשמר בהצלחה</string>
+    <string name="fax_sending">…מתבצעת שליחה</string>
+    <string name="pages_count">:עמודים </string>
+    <string name="remove">הסר</string>
+    <string name="selected">:נבחר</string>
+    <string name="need_data">נא מלא את כל השדות</string>
+    <string name="dialog.phaxio_result.title">הודעת שרת</string>
+    <string name="dialog.phaxio_result.message">הפקס הועבר למשלוח</string>
+    <string name="content">תוכן</string>
+    <string name="gallery">גלריה</string>
+    <string name="camera">מצלמה</string>
+    <string name="pdf">PDF קובץ</string>
+    <string name="text">כתוב טקסט</string>
+    <string name="not_open_file">אין אפשרות לפתוח סוג זה של קובץ</string>
+    <string name="dialog.overLimit.title">הגעת לתקרת המכסה היומית לשליחה</string>
+    <string name="limit_message">מספר העמודים בקובץ זה חורג מהכמות היומית החינמית, רק שני העמודים הראשונים יישלחו</string>
+    <string name="phaxio_limit">- גודל הקובץ המקסימלי לשליחה באמצעות פקס לא יעלה על 20 מגה.\n- מספר הדפים המקסימליים לשליחה הנם 200 עמודים.\n- מקסימום 10 קבצים יכולילם להישלח בפעם אחת.</string>
+    <string name="title_activity_text">כתוב טקסט</string>
+    <string name="characters">:תווים שנותרו</string>
+    <string name="title_activity_favorite_numbers">מספרים מועדפים</string>
+    <string name="caption">כתוב</string>
+    <string name="number">מספר</string>
+    <string name="header_fax">This fax sent with Faxi.co.il</string>
+    <string name="phaxio_answer_good">הפקס נשלח בהצלחה</string>
+
+    <string name="counter_label">%1$d עמודים מתוך %2$d יתרת עמודים</string>
+
+    <string name="limit_error">עברת את הגבול :)</string>
+    <string name="more_pages">רכישת עמודים</string>
+    <string name="buy_3">קנה 3 עמודים</string>
+    <string name="buy_25">קנה 25 עמודים</string>
+    <string name="buy_50">קנה 50 עמודים</string>
+    <string name="buy_1000">קנה 1000 עמודים</string>
+    <string name="notyfy_title_mes">הודעת מערכת</string>
+    <string name="notyfy_mes">שינוי בסטטוס הפקס שביקשת לשלוח</string>
+    <string name="status_created">נוצר</string>
+    <string name="status_inprogress">בתהליך</string>
+    <string name="status_success">נשלח</string>
+    <string name="status_failure">נכשל</string>
+    <string name="notity_message_success">הפקס ששלחת למספר  %2$s נשלח בהצלחה</string>
+    <string name="notity_message_fail">הפקס ששלחת למספר %2$s נכשל</string>
+    <string name="header_setting_title">הוספת פרטי משתמש</string>
+    <string name="header_setting_summary">במידה ורכשת דפים תוכל להוסיף פה את הפרטים שלך אשר יופיעו בראש הפקס הנשלח. שם, טלפון, כתובת מייל, עד 50 תווים</string>
+    <string name="header_custom_title">הפרטים שלך</string>
+    <string name="custom_header">פרטי השולח:</string>
+
+    <string name="dialog.rate.title">הפקס נשלחה בהצלחה!</string>
+    <string name="dialog.rate.message">אנו מודים לך על שימושך באפליקציית הפקס שלנו. בבקשה הענק לנו חמישה כוכבים בחנות הפלייסטור (תוכל לקבל חמישה עמודים חינם).</string>
+    <string name="put_five">תן חמש! </string>
+    <string name="later">לא תודה :(</string>
+    <string name="blocked_title">חשבונך נחסם</string>
+    <string name="blocked_message">במידה ותרצה לערער שלח אלינו מייל office@ehow.co.il</string>
+    <string name="buy_100">100 עמודים</string>
+    <string name="buy_500">עמודים 500 </string>
+    <string name="dialog.verify.title">אשר את כתובת המייל שלך</string>
+    <string name="dialog.verify.message">בכדי להמשיך נא אשר את כתובת הדואר האלקרטנוי שלך.</string>
+
+    <string name="fax2email_setting">הגדרות פקס למייל</string>
+    <string name="emailForFaxes">מייל לקבלת פקסים</string>
+    <string name="waiting">ממתין…</string>
+    <string name="title_activity_purchases">רכישה</string>
+    <string name="number_your_fax">מספר הפקס שלך</string>
+    <string name="thanks">תודה לך על קנייתך</string>
+    <string name="congratulations">ברכות!</string>
+    <string name="set_email_for_fax">עבור להגדרות בכדי לעדכן את כתובת המייל לקבלת פקסים</string>
+    <string name="show_number_dialog">קבל פקסים ישירות לתיבת המייל שלך</string>
+    <string name="show_number_dialog_always">אתה יכול לבדוק את מספר הפקס שלך בהגדרות</string>
+    <string name="country_select_title">בחר מדינה</string>
+
+    <string name="pages_count_unlim">לא יותר מ 200 עמודים בכל פעם</string>
+    <string name="sendandrecive">קבל ושלח פקסים ללא הגבלה לחודש</string>
+    <string name="unlimited_month">שלח פקסים ללא הגבלה לחודש</string>
+    <string name="fax2email">פקס למייל</string>
+    <string name="user_country">המדינה שלך</string>
+    <string name="user_setting_title">הגדרות</string>
+</resources>

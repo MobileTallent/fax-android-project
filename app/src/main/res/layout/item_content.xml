@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:paddingRight="16dp"
+        android:id="@+id/imageView"
+        android:src="@drawable/_blank"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+    <ImageButton
+        android:src="@android:drawable/ic_menu_delete"
+        android:background="@null"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/deleteButton"
+        android:layout_alignBottom="@+id/count_value"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+    <TextView
+        android:paddingTop="4dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="FileName"
+        android:id="@+id/file_name"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/deleteButton"
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_toEndOf="@+id/imageView"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/pages_count"
+        android:id="@+id/count_label"
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_toEndOf="@+id/imageView"
+        android:layout_below="@+id/file_name"/>
+
+    <TextView
+        android:paddingLeft="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="0"
+        android:id="@+id/count_value"
+        android:layout_alignTop="@+id/count_label"
+        android:layout_toRightOf="@+id/count_label"
+        android:layout_toEndOf="@+id/count_label"/>
+</RelativeLayout>

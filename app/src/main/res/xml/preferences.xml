@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/header_setting_title">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="customHeader"
+            android:summary="@string/header_setting_summary"
+            android:title="@string/custom_header" />
+        <EditTextPreference
+            android:defaultValue=""
+            android:dependency="customHeader"
+            android:key="textHeader"
+            android:maxLength="50"
+            android:title="@string/header_custom_title" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/user_setting_title">
+        <Preference
+            android:defaultValue=""
+            android:key="userCountry"
+            android:maxLength="50"
+            android:title="@string/user_country" />
+    </PreferenceCategory>
+    <!--<PreferenceCategory android:title="@string/fax2email_setting">-->
+        <!--<EditTextPreference-->
+            <!--android:defaultValue=""-->
+            <!--android:key="emailForFax"-->
+            <!--android:title="@string/emailForFaxes"/>-->
+        <!--<Preference-->
+            <!--android:key="phoneForFax"-->
+            <!--android:defaultValue=""-->
+            <!--android:title="@string/number_your_fax"/>-->
+    <!--</PreferenceCategory>-->
+
+</PreferenceScreen>

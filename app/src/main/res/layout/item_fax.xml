@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/background_activated"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin">
+
+    <ImageView
+        android:id="@+id/imageStatus"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/ic_icon_fax_gray"/>
+
+    <TextView
+        android:id="@+id/contactNameTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Contact name"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+    <TextView
+        android:id="@+id/phoneNumberTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageStatus"
+        android:layout_toRightOf="@+id/imageStatus"
+        android:layout_toEndOf="@+id/imageStatus"
+        android:text="+79250914026"
+
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/itemsCountTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pages: 11120"
+        android:textColor="#000000"
+        android:layout_below="@+id/phoneNumberTv"
+        android:layout_alignLeft="@+id/phoneNumberTv"
+        android:layout_alignStart="@+id/phoneNumberTv"/>
+
+    <TextView
+        android:id="@+id/sendDateTv"
+        android:gravity="right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="sending date here"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/colorPrimary"
+        android:layout_below="@+id/itemsCountTv"
+        android:layout_alignLeft="@+id/itemsCountTv"
+        android:layout_alignStart="@+id/itemsCountTv"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Status"
+        android:id="@+id/statusLabel"
+        android:layout_above="@+id/sendDateTv"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

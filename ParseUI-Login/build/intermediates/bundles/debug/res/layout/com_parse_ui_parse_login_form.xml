@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parse_login"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:visibility="gone">
+
+    <EditText
+        android:id="@+id/login_username_input"
+        android:layout_width="match_parent"
+        android:inputType="textEmailAddress"
+        android:layout_height="wrap_content"
+        android:hint="@string/com_parse_ui_username_input_hint"
+        android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/login_password_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/com_parse_ui_small_vertical_spacing"
+        android:fontFamily="sans-serif"
+        android:hint="@string/com_parse_ui_password_input_hint"
+        android:inputType="textPassword"
+        android:selectAllOnFocus="true"
+        android:singleLine="true" />
+
+    <LinearLayout
+        android:id="@+id/parse_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/com_parse_ui_large_vertical_spacing">
+
+        <Button
+            style="@style/ParseLoginUI.Button"
+            android:id="@+id/parse_login_button"
+            android:layout_weight="0.5"
+            android:text="@string/com_parse_ui_parse_login_button_label" />
+
+        <Button
+            style="@style/ParseLoginUI.Button"
+            android:id="@+id/parse_signup_button"
+            android:layout_marginLeft="@dimen/com_parse_ui_small_horizontal_spacing"
+            android:layout_weight="0.5"
+            android:text="@string/com_parse_ui_parse_signup_button_label" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/parse_login_help"
+        style="@style/ParseLoginUI.HelpButton"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginTop="@dimen/com_parse_ui_small_vertical_spacing"
+        android:layout_marginBottom="@dimen/com_parse_ui_small_vertical_spacing"
+        android:text="@string/com_parse_ui_forgot_password_button_label" />
+</LinearLayout><!-- From: file:/Users/wangmengyan/Parse/ParseUIAndroid/ParseUI-Android/ParseUI-Login/src/main/res/layout/com_parse_ui_parse_login_form.xml -->

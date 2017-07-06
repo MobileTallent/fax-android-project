@@ -1,0 +1,90 @@
+<resources>
+    <string name="facebook_app_id" translatable="false">1700930393473542</string>
+    <string name="twitter_consumer_key" translatable="false">ZGh8ADfwQE8qaxpcAWD7z76fR</string>
+    <string name="twitter_consumer_secret" translatable="false">QbDPAAJYbBJp8I8Sh3WeQtM2qX9ddwBnMWRPTs8Vq9mPC2GeW5</string>
+
+    <string name="app_name" translatable="false">Fax</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_fax_details">Fax details</string>
+    <string name="phone_number">Phone number</string>
+    <string name="send_button">SEND</string>
+    <string name="save_button">SAVE</string>
+    <string name="error_saving_fax">Error saving message</string>
+    <string name="save_message">Message saved successfully</string>
+    <string name="fax_sending">Sending fax…</string>
+    <string name="pages_count">Pages: </string>
+    <string name="remove">Remove</string>
+    <string name="selected">Selected:</string>
+    <string name="need_data">All data are required</string>
+    <string name="dialog.phaxio_result.title">The result of sending a fax</string>
+    <string name="dialog.phaxio_result.message">Fax was sent to the server</string>
+    <string name="content">Content</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="pdf">Pdf file</string>
+    <string name="text">Input text</string>
+    <string name="not_open_file">Could not find application to open this type of file</string>
+    <string name="dialog.overLimit.title">Over the limit</string>
+    <string name="limit_message">You have exceeded the limit of the number of pages.</string>
+    <string name="phaxio_limit">- The total request size for sending a fax may not exceed 20MB.\n- The total number of pages for any fax may not exceed limited pages.\n- A maximum of 10 files may be submitted per fax.</string>
+    <string name="title_activity_text">Text input</string>
+    <string name="characters">Characters left:</string>
+    <string name="title_activity_favorite_numbers">Favorite numbers</string>
+    <string name="caption">Caption</string>
+    <string name="number">Number</string>
+    <string name="header_fax">This fax sent with Faxi.co.il app for Android</string>
+    <string name="phaxio_answer_good">Fax was sent to the server</string>
+
+    <string name="limit_error">Exceeding the limit</string>
+    <string name="more_pages">Buy more pages</string>
+    <string name="buy_3">Buy 3 pages</string>
+    <string name="buy_25">Buy 25 pages</string>
+    <string name="buy_50">Buy 50 pages</string>
+    <string name="buy_100">Buy 100 pages</string>
+    <string name="buy_500">Buy 500 pages</string>
+    <string name="buy_1000">Buy 1000 pages</string>
+    <string name="unlimited_month">Unlimited send per month</string>
+    <string name="fax2email">Get faxes to email per month</string>
+    <string name="sendandrecive">Unlimited send and receive faxes per month</string>
+    <string name="notyfy_title_mes">Status Update</string>
+    <string name="notyfy_mes">Some of the faxes sent earlier changed the status</string>
+    <string name="status_created">created</string>
+    <string name="status_inprogress">in progress</string>
+    <string name="status_success">success</string>
+    <string name="status_failure">failure</string>
+    <string name="notity_message_success">The %1$d pages you faxed to %2$s was sent successfully.</string>
+    <string name="notity_message_fail">The %1$d pages you faxed to %2$s was sent failed.</string>
+
+    <string name="counter_label">%1$d from %2$d</string>
+
+    <string name="header_setting_title">Header settings</string>
+    <string name="header_setting_summary">Set contact data in header? Only if you have paid pages. This may be name, address, phone number, etc. No more than 50 characters</string>
+    <string name="header_custom_title">Your custom header</string>
+    <string name="custom_header">Custom header</string>
+
+    <string name="blocked_title">Your account is blocked</string>
+    <string name="blocked_message">Please email us at office@ehow.co.il</string>
+    <string name="country_select_title">Choose your country</string>
+    <string name="user_setting_title">User settings</string>
+    <string name="user_country">User country</string>
+    <string name="pdf_doc_docx" translatable="false">Pdf, doc, docx file</string>
+    <string name="pages_count_unlim">No more than 200 per time</string>
+    <string name="undefind">undefind</string>
+    <!--<string name="no_internet">No internet - no faxing</string>-->
+    <string name="dialog.rate.title">Successfully sent!</string>
+    <string name="dialog.rate.message">Fax has been sent successfully! We were happy to help you send a fax. Please vote us, give us FIVE! :-)</string>
+    <string name="put_five">Put five!</string>
+    <string name="later">Later…</string>
+    <string name="dialog.verify.title">Verify your email</string>
+    <string name="dialog.verify.message">To continue, you need to confirm your email you specified during registration. Check your email.</string>
+    <string name="fax2email_setting">Fax to emal settings</string>
+    <string name="emailForFaxes">Email to receive faxes</string>
+    <string name="waiting">Waiting…</string>
+    <string name="title_activity_purchases">Purchases</string>
+    <string name="number_your_fax">Number of your fax</string>
+    <string name="thanks">Thank you for your purchase</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="set_email_for_fax">Go to the settings menu and set the email to receive faxes</string>
+    <string name="show_number_dialog">In your email you can get faxes on number:</string>
+    <string name="show_number_dialog_always">You can always see this number in settings</string>
+</resources>

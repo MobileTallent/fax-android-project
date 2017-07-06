@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Work/20161203_marc_faxapp/FaxApp/ParseUI-Login/build/intermediates/res/merged/androidTest/debug/layout-land/com_parse_ui_parse_signup_fragment.xml",
+        "source": "/Volumes/Work/20161203_marc_faxapp/FaxApp/ParseUI-Login/build/intermediates/bundles/debug/res/layout-land/com_parse_ui_parse_signup_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Work/20161203_marc_faxapp/FaxApp/ParseUI-Login/build/intermediates/res/merged/androidTest/debug/layout-land/com_parse_ui_parse_login_help_fragment.xml",
+        "source": "/Volumes/Work/20161203_marc_faxapp/FaxApp/ParseUI-Login/build/intermediates/bundles/debug/res/layout-land/com_parse_ui_parse_login_help_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Work/20161203_marc_faxapp/FaxApp/ParseUI-Login/build/intermediates/res/merged/androidTest/debug/layout-land/com_parse_ui_parse_login_fragment.xml",
+        "source": "/Volumes/Work/20161203_marc_faxapp/FaxApp/ParseUI-Login/build/intermediates/bundles/debug/res/layout-land/com_parse_ui_parse_login_fragment.xml"
+    }
+]
